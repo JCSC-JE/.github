@@ -6,6 +6,6 @@ We are a "nano" national CSIRT (Cyber Security Incident Response Team) and are a
 
 JCSC is also a [FIRST member](https://tf-csirt.org/trusted-introducer/directory/teams/jcsc-je/) and a [TF-CSIRT member](https://tf-csirt.org/trusted-introducer/directory/teams/jcsc-je/)
 
-Find out more, contact us and verify us at (https://jcsc.je/about-jersey-cyber-security-centre/rfc2350/)
+Find out more, contact us and verify us via our [RFC2350](https://jcsc.je/about-jersey-cyber-security-centre/rfc2350/)
 
 <img width="947" alt="jcsc-je" src="https://github.com/JCSC-JE/.github/assets/119335775/6e4b0141-7e0a-45e3-96f1-95cfbdcfea47">
