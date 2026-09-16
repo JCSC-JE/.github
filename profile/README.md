@@ -2,7 +2,7 @@
 
 JCSC is the national cyber security centrre for the Bailiwick of Jersey in the Channel Islands.
 
-We are a "nano" national CSIRT (Cyber Security Incident Response Team) and are also members of TF-CSIRT and FIRST.
+We are a "nano" national CSIRT (Cyber Security Incident Response Team).
 
 JCSC is also a [FIRST member](https://tf-csirt.org/trusted-introducer/directory/teams/jcsc-je/) and a [TF-CSIRT member](https://tf-csirt.org/trusted-introducer/directory/teams/jcsc-je/)
 
